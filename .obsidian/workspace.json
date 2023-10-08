@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "6930163cfefaaa44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef6ac41e5e1356be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "221240dcbba2ce2f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2093ba919cb86693",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d117e53a4759bc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84afb43898affe23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6f07fdc0a7db5b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "361f23f860f0b2d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d1f9ddcbf384a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "2963aa424e3b2a0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a260f9e12557b16a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7975c0c09077384c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eeae8685b6f6c5bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17b826daa0f694bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3da09429766a71db",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "221240dcbba2ce2f",
+  "lastOpenFiles": [
+    "chapter_07/7.6 중첩 클래스.md",
+    "chapter_07/7.7 익명 클래스.md",
+    "image_04.jpg",
+    "image_03.jpg",
+    "image_02.jpg",
+    "chapter_07/image_02/image_06.jpg",
+    "chapter_07/image_02/image_05.jpg",
+    "chapter_07/image_02/image_04.jpg",
+    "chapter_07/image_02/image_03.jpg",
+    "chapter_07/image_02/image_02.jpg",
+    "chapter_07/image_02/image_01.jpg",
+    "chapter_07/image_02",
+    "chapter_07/7.5 디폴트 메소드와 정적 메소드.md",
+    "chapter_07/7.4 인터페이스를 이용한 다중 상속.md",
+    "chapter_07/image/KakaoTalk_20231009_033039813.jpg",
+    "chapter_07/7.2 인터페이스.md",
+    "chapter_07/7.1 추상클래스.md",
+    "chapter_07/7.3 인터페이스 상속.md",
+    "chapter_06/6.2 다형성.md",
+    "chapter_06/6.3 상속 vs 구성.md",
+    "chapter_07/image",
+    "chapter_07",
+    "README.md",
+    "chapter_06/6.1 상속.md",
+    "eclipse/Java_studing/bin/Cir.class",
+    "eclipse/Java_studing/bin/Shape.class",
+    "eclipse/Java_studing/bin/Rectangle.class",
+    "eclipse/Java_studing/bin/Triangle.class",
+    "eclipse/Java_studing/bin/Animal.class",
+    "c언어와의 차이/01. Static은 무엇을 의마하는가.md",
+    "chapter_05/5.2 인수 전달 방법.md",
+    "chapter_05/ECar.java",
+    "eclipse/Java_studing/bin/ECar.class",
+    "chapter_05/5.3 정적 멤버.md",
+    "chapter_05/5.1 객체의 생성과 소멸.md",
+    "chapter_05/5.4 객체 배열.md",
+    "chapter_04/4.1 class.md",
+    "chapter_04/4.2 C++의 class와 java의 class 선언 방식.md",
+    "chapter_03/3.3 ArrayList.md",
+    "chapter_03/3.4 과제 궁긍즘.md",
+    "chapter_03/3.1 switch 문.md",
+    "chapter_03/3.2 배열.md",
+    "chapter_02/2.3 콘솔에서 입력받기.md",
+    "chapter_02/2.1 묵시적 형변환.md",
+    "chapter_02/2.2 문자열.md",
+    "chapter.03/chapter 03 정리.md"
+  ]
+}
